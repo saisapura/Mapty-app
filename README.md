@@ -14,3 +14,8 @@ TrackFit is a versatile fitness tracking application designed for runners and cy
 
 TrackFit utilizes Leaflet, a leading open-source JavaScript library for interactive maps, to provide users with a visually appealing and user-friendly map interface. With Leaflet, users can view their routes, checkpoints, and other geographical information with ease.
 
+## Project Demo
+
+[Trackfit](https://trackfit-app.netlify.app/)
+### Make sure to allow the side to access you location.
+
