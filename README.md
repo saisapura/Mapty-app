@@ -17,5 +17,5 @@ TrackFit utilizes Leaflet, a leading open-source JavaScript library for interact
 ## Project Demo
 
 [Trackfit](https://trackfit-app.netlify.app/)
-### Make sure to allow the side to access you location.
+<small>Make sure to allow the side to access you location.</small>
 
